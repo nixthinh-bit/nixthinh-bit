@@ -1,17 +1,39 @@
 <h3 align="center">Chào mọi người, mình là Thinh 👋</h3>
-<p align="center"><b>Customer Success Manager</b> · Enterprise &amp; SMB · Việt Nam</p>
+<p align="center"><b>Customer Success Manager</b> · Human-led AI CSM</p>
 <p align="center">
   🇬🇧 <a href="README.md">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇻🇳 <b>Tiếng Việt</b>
 </p>
 
 ---
 
-Mình là một Customer Success Manager, làm việc với cả khách hàng enterprise và SMB.
-Từng dẫn dắt các đội CSM tại thị trường Việt Nam, và hiện là CSM Business Partner
-phụ trách kênh đối tác tại thị trường Việt Nam.
+Mình là Thinh, một Customer Success Manager đến từ Việt Nam.
 
-Không xuất thân từ dân kỹ thuật hay lập trình — nhưng mình luôn dùng các AI agent
-hiện đại để tự tay dựng nên những thứ có ý nghĩa và tạo ra giá trị thật cho những
-người khác trong ngành và những bạn làm vị trí tương tự như mình. Đây là nơi tôi chia sẻ những điều đó.
+Mình đã làm việc với các đối tác và doanh nghiệp từ SMB đến Enterprise trên nhiều ngành khác
+nhau, và có một niềm tin xuyên suốt tất cả. Công việc của một CSM không phải là thúc đẩy khách
+hàng dùng nhiều tính năng. Mà là hiểu sản phẩm đủ sâu để mang lại đúng kết quả mà mỗi khách
+hàng thực sự đang trả tiền để có được. **Giá trị nằm ngoài tính năng.**
+
+Công việc đó giờ đang thay đổi. Trong kỷ nguyên AI, biết dùng công cụ không còn là lợi thế, và
+AI đang xoá nhoà lợi thế đó rất nhanh. Lợi thế thật sự là phán đoán của con người: quyết định
+kết quả nào mới quan trọng, rồi điều hướng AI thực thi để đạt được nó. **Con người dẫn dắt, AI
+hỗ trợ — không phải ngược lại.**
+
+Đây là nơi mình chia sẻ những điều đó — những điều mình học, mình thích, mình làm, và tư duy mà
+mình muốn hướng tới trong suốt hành trình này.
+
+### 🛠️ Những thứ mình đang xây
+
+**Lark / Feishu**
+- **[lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect)** — skill Claude
+  Code biến yêu cầu nghiệp vụ bằng lời thường thành một Lark (Feishu) Base chạy được: phỏng vấn
+  → khung → ERD → build → tài liệu hướng dẫn + gợi ý tự động hoá. Song ngữ Anh/Việt.
+- **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)** — một link, một
+  lệnh để có `lark-cli` + skill + tự động refresh token chạy trong Claude Code, để bất kỳ ai
+  cũng điều khiển được Lark từ terminal.
+
+**Customer Success**
+- **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — framework và
+  một AI mentor cho Customer Success: cách tư duy để mang lại kết quả thật, không chạy theo tính
+  năng. Dành cho CSM đang học nghề.
 
 📫 [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
