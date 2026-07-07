@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Thinh 👋</h3>
 <p align="center"><b>Customer Success Manager</b> · Human-led AI CSM</p>
 <p align="center">
-  🇬🇧 <b>English</b>&nbsp;&nbsp;·&nbsp;&nbsp;🇻🇳 <a href="README.vi.md">Tiếng Việt</a>
+  🇬🇧 <b>English</b>&nbsp;&nbsp;·&nbsp;&nbsp;🇻🇳 <a href="README.vi.md">Tiếng Việt</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇨🇳 <a href="README.zh.md">中文</a>
 </p>
 
 ---
