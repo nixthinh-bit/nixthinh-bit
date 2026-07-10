@@ -27,6 +27,10 @@ I want to grow into along the way.
 - **[lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect)** — a Claude
   Code skill that turns a plain-language business requirement into a live Lark (Feishu) Base:
   interview → framework → ERD → build → usage doc + automation suggestions. Bilingual EN/VI.
+- **[lark-anyBase-report](https://github.com/nixthinh-bit/lark-anyBase-report)** — a Claude
+  Code skill that reads ANY Lark (Feishu) Base and turns it into an insight report,
+  interview-first: it asks your KPIs and time window, maps them to the real schema, drafts for
+  approval, then delivers as a Lark Doc or a message. Bilingual EN/VI.
 - **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)** — one link,
   one command to get `lark-cli` + skills + token auto-refresh running in Claude Code, so
   anyone can drive Lark from the terminal.
@@ -35,5 +39,9 @@ I want to grow into along the way.
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — frameworks
   and an AI mentor for Customer Success: the thinking behind delivering outcomes, not feature
   adoption. For CSMs learning the craft.
+- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)** — a
+  duplicate-able Lark Base template that runs a CSM's whole operation: usage-based health,
+  renewals, churn/expansion revenue, and a commercial scorecard, with ready-to-run automations.
+  Bilingual EN/VI.
 
 📫 [LinkedIn](https://www.linkedin.com/in/thinhlk41/)

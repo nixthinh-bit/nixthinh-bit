@@ -27,6 +27,10 @@ mình muốn hướng tới trong suốt hành trình này.
 - **[lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect)** — skill Claude
   Code biến yêu cầu nghiệp vụ bằng lời thường thành một Lark (Feishu) Base chạy được: phỏng vấn
   → khung → ERD → build → tài liệu hướng dẫn + gợi ý tự động hoá. Song ngữ Anh/Việt.
+- **[lark-anyBase-report](https://github.com/nixthinh-bit/lark-anyBase-report)** — skill Claude
+  Code đọc BẤT KỲ Lark (Feishu) Base nào và biến thành báo cáo insight, hỏi trước: KPI và
+  khoảng thời gian bạn cần, ánh xạ vào schema thật, trình duyệt, rồi gửi ra Lark Doc hoặc tin
+  nhắn. Song ngữ Anh/Việt.
 - **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)** — một link, một
   lệnh để có `lark-cli` + skill + tự động refresh token chạy trong Claude Code, để bất kỳ ai
   cũng điều khiển được Lark từ terminal.
@@ -35,5 +39,8 @@ mình muốn hướng tới trong suốt hành trình này.
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — framework và
   một AI mentor cho Customer Success: cách tư duy để mang lại kết quả thật, không chạy theo tính
   năng. Dành cho CSM đang học nghề.
+- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)** — một mẫu
+  Lark Base có thể nhân bản, vận hành toàn bộ công việc CSM: health từ mức dùng, tái ký, doanh
+  thu churn/mở rộng, và bảng điểm thương mại, kèm automation chạy sẵn. Song ngữ Anh/Việt.
 
 📫 [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
