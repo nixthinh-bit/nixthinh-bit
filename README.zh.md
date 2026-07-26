@@ -28,6 +28,9 @@
   结构，草稿待批，再以 Lark 文档或消息交付。英越双语。
 - **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)** — 一个链接、一
   条命令，就能在 Claude Code 里跑起 `lark-cli` + 技能 + 令牌自动刷新，让任何人都能从终端操作 Lark。
+- **[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding)** — 面向
+  零代码用户的接入层，把飞书/Lark 机器人对接到本地 Claude Code 或 Codex CLI：扫码即可，支持流式卡
+  片、按会话隔离、多工作区。
 
 **Customer Success（客户成功）**
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — 面向客户成功
