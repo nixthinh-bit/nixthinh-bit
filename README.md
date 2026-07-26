@@ -34,6 +34,10 @@ I want to grow into along the way.
 - **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)** — one link,
   one command to get `lark-cli` + skills + token auto-refresh running in Claude Code, so
   anyone can drive Lark from the terminal.
+- **[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding)** — a
+  no-code onboarding layer for a Feishu/Lark chatbot that bridges to a local Claude Code or
+  Codex CLI: scan a QR code and go, with streaming cards, per-chat sessions, and multiple
+  workspaces.
 
 **Customer Success**
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — frameworks
