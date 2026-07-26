@@ -34,6 +34,9 @@ mình muốn hướng tới trong suốt hành trình này.
 - **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)** — một link, một
   lệnh để có `lark-cli` + skill + tự động refresh token chạy trong Claude Code, để bất kỳ ai
   cũng điều khiển được Lark từ terminal.
+- **[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding)** — lớp
+  cài đặt không cần biết code cho bot Feishu/Lark kết nối tới Claude Code hoặc Codex CLI chạy
+  local: quét QR là xong, có thẻ streaming, phiên riêng từng chat, nhiều workspace.
 
 **Customer Success**
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — framework và
