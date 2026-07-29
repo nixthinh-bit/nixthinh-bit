@@ -38,14 +38,20 @@ I want to grow into along the way.
   no-code onboarding layer for a Feishu/Lark chatbot that bridges to a local Claude Code or
   Codex CLI: scan a QR code and go, with streaming cards, per-chat sessions, and multiple
   workspaces.
+- **[lark-Baseview-helper](https://github.com/nixthinh-bit/lark-Baseview-helper)** — a Claude
+  Code skill that builds a custom Lark/Feishu Base "Data Table View" extension from an existing
+  Base: plan the fields, read the real schema, scaffold with `opdev`, wire a proven data layer,
+  preview live in-Base, then release. Bilingual EN/VI.
+
+**Base Template**
+- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)** — a
+  duplicate-able Lark Base template that runs a CSM's whole operation: usage-based health,
+  renewals, churn/expansion revenue, and a commercial scorecard, with ready-to-run automations.
+  Bilingual EN/VI.
 
 **Customer Success**
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — frameworks
   and an AI mentor for Customer Success: the thinking behind delivering outcomes, not feature
   adoption. For CSMs learning the craft.
-- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)** — a
-  duplicate-able Lark Base template that runs a CSM's whole operation: usage-based health,
-  renewals, churn/expansion revenue, and a commercial scorecard, with ready-to-run automations.
-  Bilingual EN/VI.
 
 📫 [LinkedIn](https://www.linkedin.com/in/thinhlk41/)

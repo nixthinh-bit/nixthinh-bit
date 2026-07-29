@@ -31,12 +31,17 @@
 - **[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding)** — 面向
   零代码用户的接入层，把飞书/Lark 机器人对接到本地 Claude Code 或 Codex CLI：扫码即可，支持流式卡
   片、按会话隔离、多工作区。
+- **[lark-Baseview-helper](https://github.com/nixthinh-bit/lark-Baseview-helper)** — 一个 Claude
+  Code 技能：基于已有的 Lark/飞书多维表格搭建自定义「数据表视图」扩展：规划字段、读取真实结构、用
+  `opdev` 脚手架、接入已验证的数据层、在表格内实时预览，再发布上线。英越双语。
+
+**Base Template（表格模板）**
+- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)** — 一个可复制
+  的 Lark 多维表格模板，运转一位 CSM 的整套工作：基于使用的健康度、续约、流失/扩张营收，以及商业记分
+  卡，并附带即用型自动化。英越双语。
 
 **Customer Success（客户成功）**
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — 面向客户成功
   的方法框架与一个 AI 导师：交付成果、而非堆砌功能背后的思考。写给正在精进这门手艺的 CSM。
-- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)** — 一个可复制
-  的 Lark 多维表格模板，运转一位 CSM 的整套工作：基于使用的健康度、续约、流失/扩张营收，以及商业记分
-  卡，并附带即用型自动化。英越双语。
 
 📫 [LinkedIn](https://www.linkedin.com/in/thinhlk41/)

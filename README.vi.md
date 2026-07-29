@@ -37,13 +37,19 @@ mình muốn hướng tới trong suốt hành trình này.
 - **[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding)** — lớp
   cài đặt không cần biết code cho bot Feishu/Lark kết nối tới Claude Code hoặc Codex CLI chạy
   local: quét QR là xong, có thẻ streaming, phiên riêng từng chat, nhiều workspace.
+- **[lark-Baseview-helper](https://github.com/nixthinh-bit/lark-Baseview-helper)** — skill
+  Claude Code build một extension "Data Table View" tuỳ chỉnh cho Lark/Feishu Base từ một Base
+  có sẵn: lên kế hoạch trường, đọc schema thật, scaffold bằng `opdev`, gắn data layer đã kiểm
+  chứng, xem trước trực tiếp trong Base, rồi release. Song ngữ Anh/Việt.
+
+**Base Template**
+- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)** — một mẫu
+  Lark Base có thể nhân bản, vận hành toàn bộ công việc CSM: health từ mức dùng, tái ký, doanh
+  thu churn/mở rộng, và bảng điểm thương mại, kèm automation chạy sẵn. Song ngữ Anh/Việt.
 
 **Customer Success**
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — framework và
   một AI mentor cho Customer Success: cách tư duy để mang lại kết quả thật, không chạy theo tính
   năng. Dành cho CSM đang học nghề.
-- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)** — một mẫu
-  Lark Base có thể nhân bản, vận hành toàn bộ công việc CSM: health từ mức dùng, tái ký, doanh
-  thu churn/mở rộng, và bảng điểm thương mại, kèm automation chạy sẵn. Song ngữ Anh/Việt.
 
 📫 [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
