@@ -1,7 +1,7 @@
 <h3 align="center">你好，我是 Thinh 👋</h3>
 <p align="center"><b>Customer Success Manager</b> · Human-led AI CSM</p>
 <p align="center">
-  🇬🇧 <a href="README.md">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇻🇳 <a href="README.vi.md">Tiếng Việt</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇨🇳 <b>中文</b>
+  🇻🇳 <a href="README.md">Tiếng Việt</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇬🇧 <a href="README.en.md">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇨🇳 <b>中文</b>
 </p>
 
 ---
@@ -41,6 +41,8 @@
   卡，并附带即用型自动化。英越双语。
 
 **Customer Success（客户成功）**
+- **[customer-success-101](https://github.com/nixthinh-bit/customer-success-101)** — 一份关于
+  客户成功核心概念、指标与术语的实践指南，源自实战经验的总结。英越双语，附完整电子书。
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)** — 面向客户成功
   的方法框架与一个 AI 导师：交付成果、而非堆砌功能背后的思考。写给正在精进这门手艺的 CSM。
 
