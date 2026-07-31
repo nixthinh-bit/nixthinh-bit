@@ -1,25 +1,14 @@
 <h3 align="center">Hi, I'm Thinh 👋</h3>
 <p align="center"><b>Customer Success Manager</b> · Human-led AI CSM</p>
 <p align="center">
-  🇻🇳 <a href="README.md">Tiếng Việt</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇬🇧 <b>English</b>&nbsp;&nbsp;·&nbsp;&nbsp;🇨🇳 <a href="README.zh.md">中文</a>
+  🇬🇧 <b>English</b>&nbsp;&nbsp;·&nbsp;&nbsp;🇻🇳 <a href="README.md">Tiếng Việt</a>
 </p>
 
 ---
 
-I'm Thinh, a Customer Success Manager from Vietnam.
-
-I've worked with partners and businesses from SMBs to Enterprises across a range of
-industries, and one conviction runs through all of it. A CSM's job isn't to drive feature
-adoption. It's to understand the product deeply enough to deliver the specific outcome each
-customer is actually paying for. **Value lives beyond features.**
-
-That job is now changing. In the AI era, knowing the tool is no longer the edge, and AI is
-collapsing that advantage fast. The real edge is human judgment: deciding which outcome
-matters, then directing AI to execute against it. **Human-led, AI-assisted — not the other
-way around.**
-
-This is where I share it all — what I'm learning, what I love, what I build, and the thinking
-I want to grow into along the way.
+I'm Thinh, a Customer Success Manager from Vietnam. My belief: "Human leads, AI assists and
+drives efficiency, to bring the value of tech products to the people who actually need it."
+This is where I share what I learn, love, and build along the way.
 
 ### 🛠️ What I'm building
 

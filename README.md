@@ -1,25 +1,14 @@
 <h3 align="center">Chào mọi người, mình là Thinh 👋</h3>
 <p align="center"><b>Customer Success Manager</b> · Human-led AI CSM</p>
 <p align="center">
-  🇻🇳 <b>Tiếng Việt</b>&nbsp;&nbsp;·&nbsp;&nbsp;🇬🇧 <a href="README.en.md">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇨🇳 <a href="README.zh.md">中文</a>
+  🇬🇧 <a href="README.en.md">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;🇻🇳 <b>Tiếng Việt</b>
 </p>
 
 ---
 
-Mình là Thinh, một Customer Success Manager đến từ Việt Nam.
-
-Mình đã làm việc với các đối tác và doanh nghiệp từ SMB đến Enterprise trên nhiều ngành khác
-nhau, và có một niềm tin xuyên suốt tất cả. Công việc của một CSM không phải là thúc đẩy khách
-hàng dùng nhiều tính năng. Mà là hiểu sản phẩm đủ sâu để mang lại đúng kết quả mà mỗi khách
-hàng thực sự đang trả tiền để có được. **Giá trị nằm ngoài tính năng.**
-
-Công việc đó giờ đang thay đổi. Trong kỷ nguyên AI, biết dùng công cụ không còn là lợi thế, và
-AI đang xoá nhoà lợi thế đó rất nhanh. Lợi thế thật sự là phán đoán của con người: quyết định
-kết quả nào mới quan trọng, rồi điều hướng AI thực thi để đạt được nó. **Con người dẫn dắt, AI
-hỗ trợ — không phải ngược lại.**
-
-Đây là nơi mình chia sẻ những điều đó — những điều mình học, mình thích, mình làm, và tư duy mà
-mình muốn hướng tới trong suốt hành trình này.
+Mình là Thịnh - Customer Success Manager từ Việt Nam. Quan điểm của mình là: "Con người dẫn dắt,
+AI hỗ trợ và thúc đẩy hiệu quả, để đưa giá trị của sản phẩm công nghệ đến đúng người cần". Trang
+này là nơi mình chia sẻ những điều mình học - thích - làm trong suốt hành trình này.
 
 ### 🛠️ Những thứ mình đang xây
 
