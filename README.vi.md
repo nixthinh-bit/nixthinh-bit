@@ -45,6 +45,10 @@ này là nơi mình chia sẻ những điều mình học - thích - làm trong 
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)**: framework và
   một AI mentor cho Customer Success: cách tư duy để mang lại kết quả thật, không chạy theo tính
   năng. Dành cho CSM đang học nghề.
+- **[csm-industry-learner](https://github.com/nixthinh-bit/csm-industry-learner)**: skill
+  Claude Code biến tên một ngành thành báo cáo có trích nguồn theo 5 lớp (kinh tế đơn vị, chuỗi
+  quy trình, vai trò/KPI, từ vựng, ràng buộc cứng), rồi mapping sang sản phẩm của bạn kèm giả
+  thuyết POC xếp hạng và câu hỏi tìm hiểu khách hàng. Song ngữ Anh/Việt.
 
 ### 📫 Thông tin liên hệ
 

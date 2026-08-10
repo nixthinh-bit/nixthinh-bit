@@ -47,6 +47,10 @@ This is where I share what I learn, love, and build along the way.
 - **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)**: frameworks
   and an AI mentor for Customer Success: the thinking behind delivering outcomes, not feature
   adoption. For CSMs learning the craft.
+- **[csm-industry-learner](https://github.com/nixthinh-bit/csm-industry-learner)**: a Claude
+  Code skill that turns an industry name into a source-cited report across 5 layers (unit
+  economics, process chain, role/KPI, vocabulary, hard constraints), then maps it to your
+  product with ranked POC hypotheses and discovery questions. Bilingual EN/VI.
 
 ### 📫 Contact
 
