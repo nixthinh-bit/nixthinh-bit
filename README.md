@@ -48,6 +48,11 @@ This is where I share what I learn, love, and build along the way.
   and an AI mentor for Customer Success: the thinking behind delivering outcomes, not feature
   adoption. For CSMs learning the craft.
 
+**Other Apps**
+- **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: a single-file,
+  browser-based tool for CapCut-style Ken Burns zoom effects on a video — click to set the zoom
+  point, drag to set start/end and speed, one click to record the result. No install, no upload.
+
 ### 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/thinhlk41/)

@@ -46,6 +46,11 @@ này là nơi mình chia sẻ những điều mình học - thích - làm trong 
   một AI mentor cho Customer Success: cách tư duy để mang lại kết quả thật, không chạy theo tính
   năng. Dành cho CSM đang học nghề.
 
+**Ứng dụng khác**
+- **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: công cụ zoom video
+  kiểu CapCut/Ken Burns chạy gọn trong một file HTML — click để chọn điểm zoom, kéo để chỉnh thời
+  điểm bắt đầu/kết thúc và tốc độ, bấm một nút là ghi ra kết quả. Không cần cài đặt, không upload.
+
 ### 📫 Thông tin liên hệ
 
 [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
