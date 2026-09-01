@@ -35,4 +35,4 @@ This is where I share what I learn, love, and build along the way.
 ### 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
-- [kimthinh.41@gmail.com](mailto:kimthinh.41@gmail.com)
+- [Email](mailto:kimthinh.41@gmail.com)

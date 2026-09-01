@@ -35,4 +35,4 @@ này là nơi mình chia sẻ những điều mình học - thích - làm trong 
 ### 📫 Thông tin liên hệ
 
 - [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
-- [kimthinh.41@gmail.com](mailto:kimthinh.41@gmail.com)
+- [Email](mailto:kimthinh.41@gmail.com)
