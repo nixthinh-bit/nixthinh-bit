@@ -28,6 +28,11 @@ này là nơi mình chia sẻ những điều mình học - thích - làm trong 
 **Dự án phụ**
 - **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: công cụ một file HTML chạy trên trình duyệt, tạo hiệu ứng zoom Ken Burns kiểu CapCut cho video
 
+### ✍️ Blog cá nhân
+
+[Beyond Features](https://thinhle1.sg.larksuite.com/app/JmQMbi5MsakZaisFNU6l248ugBd?pageId=pgeCryHXZxtoxnXi&mode=edit)
+
 ### 📫 Thông tin liên hệ
 
-[LinkedIn](https://www.linkedin.com/in/thinhlk41/)
+- [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
+- [kimthinh.41@gmail.com](mailto:kimthinh.41@gmail.com)

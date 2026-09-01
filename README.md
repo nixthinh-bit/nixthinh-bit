@@ -28,6 +28,11 @@ This is where I share what I learn, love, and build along the way.
 **Side projects**
 - **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: single-file browser tool for CapCut-style Ken Burns zoom on a video
 
+### ✍️ My personal blog
+
+[Beyond Features](https://thinhle1.sg.larksuite.com/app/JmQMbi5MsakZaisFNU6l248ugBd?pageId=pgeCryHXZxtoxnXi&mode=edit)
+
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/thinhlk41/)
+- [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
+- [kimthinh.41@gmail.com](mailto:kimthinh.41@gmail.com)
