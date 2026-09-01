@@ -34,19 +34,13 @@ This is where I share what I learn, love, and build along the way.
   Codex CLI: scan a QR code and go, with streaming cards, per-chat sessions, and multiple
   workspaces.
 
-**Base Template**
-- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)**: a
-  duplicate-able Lark Base template that runs a CSM's whole operation: usage-based health,
-  renewals, churn/expansion revenue, and a commercial scorecard, with ready-to-run automations.
-  Bilingual EN/VI.
-
-**Customer Success**
+**Templates & guides**
+- **[lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates)**: a growing
+  collection of duplicate-able Lark (Feishu) Base templates for real operations, each with
+  English and Vietnamese copy links. Starts with the Customer Success Hub.
 - **[customer-success-101](https://github.com/nixthinh-bit/customer-success-101)**: a
   practitioner's guide to the concepts, metrics, and vocabulary that define the Customer
   Success profession, compiled from experience. Bilingual EN/VI, with a full ebook.
-- **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)**: frameworks
-  and an AI mentor for Customer Success: the thinking behind delivering outcomes, not feature
-  adoption. For CSMs learning the craft.
 
 **Other Apps**
 - **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: a single-file,

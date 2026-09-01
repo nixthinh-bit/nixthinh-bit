@@ -33,18 +33,13 @@ này là nơi mình chia sẻ những điều mình học - thích - làm trong 
   cài đặt không cần biết code cho bot Feishu/Lark kết nối tới Claude Code hoặc Codex CLI chạy
   local: quét QR là xong, có thẻ streaming, phiên riêng từng chat, nhiều workspace.
 
-**Base Template**
-- **[customer-success-hub](https://github.com/nixthinh-bit/customer-success-hub)**: một mẫu
-  Lark Base có thể nhân bản, vận hành toàn bộ công việc CSM: health từ mức dùng, tái ký, doanh
-  thu churn/mở rộng, và bảng điểm thương mại, kèm automation chạy sẵn. Song ngữ Anh/Việt.
-
-**Customer Success**
+**Mẫu & hướng dẫn**
+- **[lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates)**: bộ mẫu Lark
+  (Feishu) Base bấm là nhân bản được, dùng cho việc thật, ngày càng nhiều, mỗi mẫu có link copy
+  tiếng Anh và tiếng Việt. Bắt đầu với Customer Success Hub.
 - **[customer-success-101](https://github.com/nixthinh-bit/customer-success-101)**: cẩm nang
   thực hành về khái niệm, chỉ số và thuật ngữ định hình nghề Customer Success, đúc kết từ kinh
   nghiệm thực tế. Song ngữ Anh/Việt, kèm bản ebook đầy đủ.
-- **[csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features)**: framework và
-  một AI mentor cho Customer Success: cách tư duy để mang lại kết quả thật, không chạy theo tính
-  năng. Dành cho CSM đang học nghề.
 
 **Ứng dụng khác**
 - **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: công cụ zoom video
