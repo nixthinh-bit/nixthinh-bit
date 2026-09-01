@@ -12,39 +12,21 @@ này là nơi mình chia sẻ những điều mình học - thích - làm trong 
 
 ### 🛠️ Những thứ mình đang xây
 
-**Lark Base Skills**
-- **[lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect)**: skill Claude
-  Code biến yêu cầu nghiệp vụ bằng lời thường thành một Lark (Feishu) Base chạy được: phỏng vấn
-  → khung → ERD → build → tài liệu hướng dẫn + gợi ý tự động hoá. Song ngữ Anh/Việt.
-- **[lark-anyBase-report](https://github.com/nixthinh-bit/lark-anyBase-report)**: skill Claude
-  Code đọc BẤT KỲ Lark (Feishu) Base nào và biến thành báo cáo insight, hỏi trước: KPI và
-  khoảng thời gian bạn cần, ánh xạ vào schema thật, trình duyệt, rồi gửi ra Lark Doc hoặc tin
-  nhắn. Song ngữ Anh/Việt.
-- **[lark-Baseview-helper](https://github.com/nixthinh-bit/lark-Baseview-helper)**: skill
-  Claude Code build một extension "Data Table View" tuỳ chỉnh cho Lark/Feishu Base từ một Base
-  có sẵn: lên kế hoạch trường, đọc schema thật, scaffold bằng `opdev`, gắn data layer đã kiểm
-  chứng, xem trước trực tiếp trong Base, rồi release. Song ngữ Anh/Việt.
+**Skill Claude Code — nói việc cần làm, nhận kết quả**
+- **[lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect)**: yêu cầu bằng lời thường → Lark Base chạy được (phỏng vấn → ERD → build → tài liệu dùng)
+- **[lark-anyBase-report](https://github.com/nixthinh-bit/lark-anyBase-report)**: đọc bất kỳ Lark Base, hỏi KPI của bạn, trả về báo cáo insight dạng Doc hoặc tin nhắn
+- **[lark-Baseview-helper](https://github.com/nixthinh-bit/lark-Baseview-helper)**: dựng extension "Data Table View" tuỳ chỉnh từ một Base có sẵn
 
-**Setup & Onboarding**
-- **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)**: một link, một
-  lệnh để có `lark-cli` + skill + tự động refresh token chạy trong Claude Code, để bất kỳ ai
-  cũng điều khiển được Lark từ terminal.
-- **[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding)**: lớp
-  cài đặt không cần biết code cho bot Feishu/Lark kết nối tới Claude Code hoặc Codex CLI chạy
-  local: quét QR là xong, có thẻ streaming, phiên riêng từng chat, nhiều workspace.
+**Một lệnh để bắt đầu**
+- **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)**: một link, một lệnh → lark-cli + skill + tự refresh token trong Claude Code
+- **[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding)**: cài không cần code cho bot Lark nối tới Claude Code / Codex CLI chạy local
 
 **Mẫu & hướng dẫn**
-- **[lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates)**: bộ mẫu Lark
-  (Feishu) Base bấm là nhân bản được, dùng cho việc thật, ngày càng nhiều, mỗi mẫu có link copy
-  tiếng Anh và tiếng Việt. Bắt đầu với Customer Success Hub.
-- **[customer-success-101](https://github.com/nixthinh-bit/customer-success-101)**: cẩm nang
-  thực hành về khái niệm, chỉ số và thuật ngữ định hình nghề Customer Success, đúc kết từ kinh
-  nghiệm thực tế. Song ngữ Anh/Việt, kèm bản ebook đầy đủ.
+- **[lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates)**: bộ mẫu Lark Base bấm là nhân bản được, ngày càng nhiều, mỗi mẫu có link copy tiếng Anh và tiếng Việt
+- **[customer-success-101](https://github.com/nixthinh-bit/customer-success-101)**: cẩm nang thực hành về khái niệm, chỉ số và thuật ngữ nghề CS, kèm ebook đầy đủ
 
-**Ứng dụng khác**
-- **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: công cụ zoom video
-  kiểu CapCut/Ken Burns chạy gọn trong một file HTML — click để chọn điểm zoom, kéo để chỉnh thời
-  điểm bắt đầu/kết thúc và tốc độ, bấm một nút là ghi ra kết quả. Không cần cài đặt, không upload.
+**Dự án phụ**
+- **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: công cụ một file HTML chạy trên trình duyệt, tạo hiệu ứng zoom Ken Burns kiểu CapCut cho video
 
 ### 📫 Thông tin liên hệ
 
