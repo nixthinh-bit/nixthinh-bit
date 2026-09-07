@@ -32,6 +32,7 @@ trong suốt hành trình đó.
 
 **Cho Customer Success:**
 - [customer-success-101](https://github.com/nixthinh-bit/customer-success-101): cẩm nang thực hành về khái niệm, chỉ số và thuật ngữ nghề CS, kèm ebook đầy đủ
+- [csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features): mentor AI di động dạy nền tảng CS, chỉ số và lộ trình nghề nghiệp qua hỏi-đáp dẫn dắt
 
 **Cho đội GTM:**
 - [zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video): công cụ một file HTML chạy trên trình duyệt, tạo hiệu ứng zoom Ken Burns kiểu CapCut cho video

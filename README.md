@@ -32,6 +32,7 @@ learned, liked, and done throughout this journey.
 
 **For customer success:**
 - [customer-success-101](https://github.com/nixthinh-bit/customer-success-101): a practitioner's guide to CS concepts, metrics, and vocabulary, with a full ebook
+- [csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features): a portable AI mentor prompt that teaches CS fundamentals, metrics, and career path through guided Q&A
 
 **For GTM team:**
 - [zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video): single-file browser tool for CapCut-style Ken Burns zoom on a video
