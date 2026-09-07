@@ -1,38 +1,83 @@
-<h3 align="center">Hi, I'm Thinh 👋</h3>
-<p align="center"><b>Customer Success Manager</b> · Human-led AI CSM</p>
-<p align="center">
-  🇬🇧 <b>English</b>&nbsp;&nbsp;·&nbsp;&nbsp;🇻🇳 <a href="README.vi.md">Tiếng Việt</a>
-</p>
+<table>
+<tr>
+<td width="40%"><img src="assets/wright-phosphorus-1771.jpg" width="100%" alt="The Discovery of Phosphorus (1771) - Joseph Wright"></td>
+<td width="60%">
+
+### Hi, I'm Thinh 👋
+Customer Success · Human-led AI CSM · Learner
+
+🇬🇧 **English** · 🇻🇳 [Tiếng Việt](README.vi.md)
+
+Hello, I work in Customer Success and am a curious person who loves learning new things. With
+AI applications, my current work principle is that humans remain the primary drivers while AI
+amplifies capabilities and boosts human efficiency. This GitHub is where I share what I've
+learned, liked, and done throughout this journey.
+
+✍️ My personal blog — [Beyond Features](https://thinhle1.sg.larksuite.com/app/JmQMbi5MsakZaisFNU6l248ugBd?pageId=pgeCryHXZxtoxnXi)
+📫 Contact me — [LinkedIn](https://www.linkedin.com/in/thinhlk41/) · [Email](mailto:kimthinh.41@gmail.com)
+
+</td>
+</tr>
+</table>
+
+### 🛠️ The things I have built:
+
+<table>
+<tr>
+<td width="60%">
+
+**For customer success:**
+[customer-success-101](https://github.com/nixthinh-bit/customer-success-101): a practitioner's
+guide to CS concepts, metrics, and vocabulary, with a full ebook
+
+**For GTM team:**
+[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video): single-file browser tool
+for CapCut-style Ken Burns zoom on a video
+[lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect): plain-language
+requirement → live Lark Base (interview → ERD → build → usage doc)
+
+</td>
+<td width="40%"><img src="assets/blake-ancient-of-days-1794.jpg" width="100%" alt="The Ancient of Days (1794) - William Blake"></td>
+</tr>
+</table>
 
 ---
 
-I'm Thinh, a Customer Success Manager from Vietnam. My belief: "Human leads, AI assists and
-drives efficiency, to bring the value of tech products to the people who actually need it."
-This is where I share what I learn, love, and build along the way.
+<table>
+<tr>
+<td width="45%"><img src="assets/lark-feishu.png" width="100%" alt="Lark ~ Feishu"></td>
+<td width="55%">
 
-### 🛠️ What I'm building
+**For Lark's end users:**
+[lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates): a growing
+collection of duplicate-able Lark Base templates, both EN/VN
+[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding): one link, one
+command → lark-cli + skills + token auto-refresh in Claude Code
+[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding): no-code
+setup for a Lark chatbot bridged to a local Claude Code / Codex CLI
+[lark-anyBase-report](https://github.com/nixthinh-bit/lark-anyBase-report): reads any Lark
+Base, asks your KPIs, returns an insight report as a Doc or message
+[lark-Baseview-helper](https://github.com/nixthinh-bit/lark-Baseview-helper): builds a custom
+Base "Data Table View" extension from an existing Base
 
-**Claude Code skills — describe the job, get the result**
-- **[lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect)**: plain-language requirement → live Lark Base (interview → ERD → build → usage doc)
-- **[lark-anyBase-report](https://github.com/nixthinh-bit/lark-anyBase-report)**: reads any Lark Base, asks your KPIs, returns an insight report as a Doc or message
-- **[lark-Baseview-helper](https://github.com/nixthinh-bit/lark-Baseview-helper)**: builds a custom Base "Data Table View" extension from an existing Base
+</td>
+</tr>
+</table>
 
-**One command to get started**
-- **[lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding)**: one link, one command → lark-cli + skills + token auto-refresh in Claude Code
-- **[lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding)**: no-code setup for a Lark chatbot bridged to a local Claude Code / Codex CLI
+---
 
-**Templates & guides**
-- **[lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates)**: a growing collection of duplicate-able Lark Base templates, each with English and Vietnamese copy links
-- **[customer-success-101](https://github.com/nixthinh-bit/customer-success-101)**: a practitioner's guide to CS concepts, metrics, and vocabulary, with a full ebook
+❤️ Things I found really cool:
 
-**Side projects**
-- **[zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video)**: single-file browser tool for CapCut-style Ken Burns zoom on a video
+<table>
+<tr>
+<td width="71%">
 
-### ✍️ My personal blog
+[beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates): A
+library of HTML slide templates - by Zara Zhang
+[Taste Skill](https://github.com/Leonxlnx/taste-skill): open-source design taste for AI coding
+agents.
 
-[Beyond Features](https://thinhle1.sg.larksuite.com/app/JmQMbi5MsakZaisFNU6l248ugBd?pageId=pgeCryHXZxtoxnXi&mode=edit)
-
-### 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
-- [Email](mailto:kimthinh.41@gmail.com)
+</td>
+<td width="29%"><img src="assets/mucha-laurel-1901.jpg" width="100%" alt="Laurel (1901) - Alphonse Mucha"></td>
+</tr>
+</table>
