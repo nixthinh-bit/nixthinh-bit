@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td width="40%">
+<td width="40%" align="center">
 <img src="assets/wright-phosphorus-1771.jpg" width="100%" alt="The Discovery of Phosphorus (1771) - Joseph Wright"><br>
 <sub><i>The Discovery of Phosphorus (1771) — Joseph Wright</i></sub>
 </td>
-<td width="60%">
+<td width="60%" align="center">
 
 ### Chào mọi người, mình là Thinh 👋
 Customer Success · Human-led AI CSM · Learner
@@ -17,6 +17,7 @@ và thúc đẩy hiệu quả. Trang GitHub này là nơi mình chia sẻ nhữn
 trong suốt hành trình đó.
 
 ✍️ Blog cá nhân — [Beyond Features](https://thinhle1.sg.larksuite.com/app/JmQMbi5MsakZaisFNU6l248ugBd?pageId=pgeCryHXZxtoxnXi)
+
 📫 Liên hệ — [LinkedIn](https://www.linkedin.com/in/thinhlk41/) · [Email](mailto:kimthinh.41@gmail.com)
 
 </td>
@@ -27,7 +28,7 @@ trong suốt hành trình đó.
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" align="left" valign="top">
 
 **Cho Customer Success:**
 - [customer-success-101](https://github.com/nixthinh-bit/customer-success-101): cẩm nang thực hành về khái niệm, chỉ số và thuật ngữ nghề CS, kèm ebook đầy đủ
@@ -37,7 +38,7 @@ trong suốt hành trình đó.
 - [lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect): yêu cầu bằng lời thường → Lark Base chạy được (phỏng vấn → ERD → build → tài liệu dùng)
 
 </td>
-<td width="40%">
+<td width="40%" align="center">
 <img src="assets/blake-ancient-of-days-1794.jpg" width="100%" alt="The Ancient of Days (1794) - William Blake"><br>
 <sub><i>The Ancient of Days (1794) — William Blake</i></sub>
 </td>
@@ -48,7 +49,7 @@ trong suốt hành trình đó.
 
 <table>
 <tr>
-<td width="45%">
+<td width="45%" align="center">
 <img src="assets/lark-feishu.png" width="100%" alt="Lark ~ Feishu"><br>
 <sub><i>Lark ~ Feishu</i></sub>
 </td>
@@ -67,17 +68,17 @@ trong suốt hành trình đó.
 
 ---
 
-❤️ Những thứ mình thấy hay:
+### ❤️ Những thứ mình thấy hay:
 
 <table>
 <tr>
-<td width="71%">
+<td width="71%" align="left" valign="top">
 
 - [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates): thư viện mẫu slide HTML - của Zara Zhang
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill): gu thiết kế mã nguồn mở cho AI coding agent.
 
 </td>
-<td width="29%">
+<td width="29%" align="center">
 <img src="assets/mucha-laurel-1901.jpg" width="100%" alt="Laurel (1901) - Alphonse Mucha"><br>
 <sub><i>Laurel (1901) — Alphonse Mucha</i></sub>
 </td>

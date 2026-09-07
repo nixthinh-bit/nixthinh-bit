@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td width="40%">
+<td width="40%" align="center">
 <img src="assets/wright-phosphorus-1771.jpg" width="100%" alt="The Discovery of Phosphorus (1771) - Joseph Wright"><br>
 <sub><i>The Discovery of Phosphorus (1771) — Joseph Wright</i></sub>
 </td>
-<td width="60%">
+<td width="60%" align="center">
 
 ### Hi, I'm Thinh 👋
 Customer Success · Human-led AI CSM · Learner
@@ -17,6 +17,7 @@ amplifies capabilities and boosts human efficiency. This GitHub is where I share
 learned, liked, and done throughout this journey.
 
 ✍️ My personal blog — [Beyond Features](https://thinhle1.sg.larksuite.com/app/JmQMbi5MsakZaisFNU6l248ugBd?pageId=pgeCryHXZxtoxnXi)
+
 📫 Contact me — [LinkedIn](https://www.linkedin.com/in/thinhlk41/) · [Email](mailto:kimthinh.41@gmail.com)
 
 </td>
@@ -27,7 +28,7 @@ learned, liked, and done throughout this journey.
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" align="left" valign="top">
 
 **For customer success:**
 - [customer-success-101](https://github.com/nixthinh-bit/customer-success-101): a practitioner's guide to CS concepts, metrics, and vocabulary, with a full ebook
@@ -37,7 +38,7 @@ learned, liked, and done throughout this journey.
 - [lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect): plain-language requirement → live Lark Base (interview → ERD → build → usage doc)
 
 </td>
-<td width="40%">
+<td width="40%" align="center">
 <img src="assets/blake-ancient-of-days-1794.jpg" width="100%" alt="The Ancient of Days (1794) - William Blake"><br>
 <sub><i>The Ancient of Days (1794) — William Blake</i></sub>
 </td>
@@ -48,7 +49,7 @@ learned, liked, and done throughout this journey.
 
 <table>
 <tr>
-<td width="45%">
+<td width="45%" align="center">
 <img src="assets/lark-feishu.png" width="100%" alt="Lark ~ Feishu"><br>
 <sub><i>Lark ~ Feishu</i></sub>
 </td>
@@ -67,17 +68,17 @@ learned, liked, and done throughout this journey.
 
 ---
 
-❤️ Things I found really cool:
+### ❤️ Things I found really cool:
 
 <table>
 <tr>
-<td width="71%">
+<td width="71%" align="left" valign="top">
 
 - [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates): A library of HTML slide templates - by Zara Zhang
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill): open-source design taste for AI coding agents.
 
 </td>
-<td width="29%">
+<td width="29%" align="center">
 <img src="assets/mucha-laurel-1901.jpg" width="100%" alt="Laurel (1901) - Alphonse Mucha"><br>
 <sub><i>Laurel (1901) — Alphonse Mucha</i></sub>
 </td>
