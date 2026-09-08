@@ -35,8 +35,9 @@ trong suốt hành trình đó.
 - [csm-beyond-features](https://github.com/nixthinh-bit/csm-beyond-features): mentor AI di động dạy nền tảng CS, chỉ số và lộ trình nghề nghiệp qua hỏi-đáp dẫn dắt
 
 **Cho đội GTM:**
-- [zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video): công cụ một file HTML chạy trên trình duyệt, tạo hiệu ứng zoom Ken Burns kiểu CapCut cho video
+- [zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video): công cụ một file HTML chạy trên trình duyệt, zoom Ken Burns kiểu CapCut và làm nổi bật các phần chính khi quay video demo
 - [lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect): yêu cầu bằng lời thường → Lark Base chạy được (phỏng vấn → ERD → build → tài liệu dùng)
+- [csm-industry-learner](https://github.com/nixthinh-bit/csm-industry-learner): tên ngành → báo cáo ngành có trích nguồn → mapping sang sản phẩm với giả thuyết POC xếp hạng và câu hỏi discovery
 
 </td>
 <td width="40%" align="center">
@@ -75,7 +76,7 @@ trong suốt hành trình đó.
 <tr>
 <td width="60%" align="left" valign="top">
 
-- [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates): thư viện mẫu slide HTML - của Zara Zhang
+- [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates): thư viện mẫu slide HTML
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill): gu thiết kế mã nguồn mở cho AI coding agent.
 
 </td>
