@@ -1,8 +1,8 @@
 <table>
 <tr>
 <td width="40%" align="center">
-<img src="assets/wright-phosphorus-1771.jpg" width="100%" alt="The Discovery of Phosphorus (1771) - Joseph Wright"><br>
-<sub><i>The Discovery of Phosphorus (1771) — Joseph Wright</i></sub>
+<img src="assets/wright-orrery-1766.jpg" width="100%" alt="A Philosopher Lecturing on the Orrery - Joseph Wright of Derby"><br>
+<sub><i>A Philosopher Lecturing on the Orrery - Joseph Wright of Derby</i></sub>
 </td>
 <td width="60%" align="center">
 
@@ -40,8 +40,8 @@ trong suốt hành trình đó.
 
 </td>
 <td width="40%" align="center">
-<img src="assets/blake-ancient-of-days-1794.jpg" width="100%" alt="The Ancient of Days (1794) - William Blake"><br>
-<sub><i>The Ancient of Days (1794) — William Blake</i></sub>
+<img src="assets/wright-air-pump-1768.jpg" width="100%" alt="An Experiment on a Bird in an Air Pump - Joseph Wright of Derby"><br>
+<sub><i>An Experiment on a Bird in an Air Pump - Joseph Wright of Derby</i></sub>
 </td>
 </tr>
 </table>
@@ -50,11 +50,11 @@ trong suốt hành trình đó.
 
 <table>
 <tr>
-<td width="45%" align="center">
-<img src="assets/lark-feishu.png" width="100%" alt="Lark ~ Feishu"><br>
-<sub><i>Lark ~ Feishu</i></sub>
+<td width="40%" align="center">
+<img src="assets/wright-phosphorus-1771.jpg" width="100%" alt="The Alchemist Discovering Phosphorus - Joseph Wright of Derby"><br>
+<sub><i>The Alchemist Discovering Phosphorus - Joseph Wright of Derby</i></sub>
 </td>
-<td width="55%">
+<td width="60%">
 
 **Cho người dùng Lark:**
 - [lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates): bộ mẫu Lark Base bấm là nhân bản được, ngày càng nhiều, mỗi mẫu có link copy tiếng Anh và tiếng Việt
@@ -73,15 +73,17 @@ trong suốt hành trình đó.
 
 <table>
 <tr>
-<td width="71%" align="left" valign="top">
+<td width="60%" align="left" valign="top">
 
 - [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates): thư viện mẫu slide HTML - của Zara Zhang
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill): gu thiết kế mã nguồn mở cho AI coding agent.
 
 </td>
-<td width="29%" align="center">
-<img src="assets/mucha-laurel-1901.jpg" width="100%" alt="Laurel (1901) - Alphonse Mucha"><br>
-<sub><i>Laurel (1901) — Alphonse Mucha</i></sub>
+<td width="40%" align="center">
+<img src="assets/wright-blacksmiths-shop-1771.jpg" width="100%" alt="The Blacksmith's Shop - Joseph Wright of Derby"><br>
+<sub><i>The Blacksmith's Shop - Joseph Wright of Derby</i></sub>
 </td>
 </tr>
 </table>
+
+---
