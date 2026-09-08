@@ -2,7 +2,7 @@
 <tr>
 <td width="40%" align="center">
 <img src="assets/wright-orrery-1766.jpg" width="100%" alt="A Philosopher Lecturing on the Orrery - Joseph Wright of Derby (1766)"><br>
-<sub><i>A Philosopher Lecturing on the Orrery - Joseph Wright of Derby (1766)</i></sub>
+<sub><i>A Philosopher Lecturing on the Orrery<br>Joseph Wright of Derby (1766)</i></sub>
 </td>
 <td width="60%" align="center">
 
@@ -41,7 +41,7 @@ trong suốt hành trình đó.
 </td>
 <td width="40%" align="center">
 <img src="assets/wright-air-pump-1768.jpg" width="100%" alt="An Experiment on a Bird in an Air Pump - Joseph Wright of Derby (1768)"><br>
-<sub><i>An Experiment on a Bird in an Air Pump - Joseph Wright of Derby (1768)</i></sub>
+<sub><i>An Experiment on a Bird in an Air Pump<br>Joseph Wright of Derby (1768)</i></sub>
 </td>
 </tr>
 </table>
@@ -52,7 +52,7 @@ trong suốt hành trình đó.
 <tr>
 <td width="40%" align="center">
 <img src="assets/wright-phosphorus-1771.jpg" width="100%" alt="The Alchemist Discovering Phosphorus - Joseph Wright of Derby (1771)"><br>
-<sub><i>The Alchemist Discovering Phosphorus - Joseph Wright of Derby (1771)</i></sub>
+<sub><i>The Alchemist Discovering Phosphorus<br>Joseph Wright of Derby (1771)</i></sub>
 </td>
 <td width="60%">
 
@@ -81,7 +81,7 @@ trong suốt hành trình đó.
 </td>
 <td width="40%" align="center">
 <img src="assets/wright-blacksmiths-shop-1771.jpg" width="100%" alt="The Blacksmith's Shop - Joseph Wright of Derby (1771)"><br>
-<sub><i>The Blacksmith's Shop - Joseph Wright of Derby (1771)</i></sub>
+<sub><i>The Blacksmith's Shop<br>Joseph Wright of Derby (1771)</i></sub>
 </td>
 </tr>
 </table>
