@@ -37,7 +37,7 @@ learned, liked, and done throughout this journey.
 **For GTM team:**
 - [zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video): single-file browser tool for CapCut-style Ken Burns zoom and highlighting the key parts while recording a demo video
 - [lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect): plain-language requirement → live Lark Base (interview → ERD → build → usage doc)
-- [csm-industry-learner](https://github.com/nixthinh-bit/csm-industry-learner): industry name → source-cited industry report → product mapping with ranked POC hypotheses and discovery questions
+- [gtm-industry-researcher](https://github.com/nixthinh-bit/gtm-industry-researcher): industry name → source-cited industry report → product mapping with ranked POC hypotheses and discovery questions
 
 </td>
 <td width="40%" align="center">
@@ -78,6 +78,7 @@ learned, liked, and done throughout this journey.
 
 - [beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates): A library of HTML slide templates
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill): open-source design taste for AI coding agents.
+- [claude-howto](https://github.com/luongnv89/claude-howto): a visual, module-by-module tutorial for Claude Code, with templates and copy-paste configs from basics to agent orchestration
 
 </td>
 <td width="40%" align="center">
