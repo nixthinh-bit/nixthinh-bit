@@ -58,6 +58,7 @@ trong suốt hành trình đó.
 <td width="60%">
 
 **Cho người dùng Lark:**
+- [lark-vn-library](https://nixthinh-bit.github.io/lark-vn-library/): trang mục lục tài liệu Lark tiếng Việt cho đối tác và khách hàng
 - [lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates): bộ mẫu Lark Base bấm là nhân bản được, ngày càng nhiều, mỗi mẫu có link copy tiếng Anh và tiếng Việt
 - [lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding): một link, một lệnh → lark-cli + skill + tự refresh token trong Claude Code
 - [lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding): cài không cần biết code cho bot Lark nối tới Claude Code / Codex CLI chạy local

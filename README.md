@@ -58,6 +58,7 @@ learned, liked, and done throughout this journey.
 <td width="60%">
 
 **For Lark's end users:**
+- [lark-vn-library](https://nixthinh-bit.github.io/lark-vn-library/): a one-page index of Lark enablement docs for Vietnamese partners and customers
 - [lark-base-templates](https://github.com/nixthinh-bit/lark-base-templates): a growing collection of duplicate-able Lark Base templates, both EN/VN
 - [lark-cli-onboarding](https://github.com/nixthinh-bit/lark-cli-onboarding): one link, one command → lark-cli + skills + token auto-refresh in Claude Code
 - [lark-bridge-onboarding](https://github.com/nixthinh-bit/lark-bridge-onboarding): no-code setup for a Lark chatbot bridged to a local Claude Code / Codex CLI
