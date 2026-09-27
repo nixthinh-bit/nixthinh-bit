@@ -18,7 +18,7 @@ learned, liked, and done throughout this journey.
 
 ✍️ My personal blog — [Beyond Features](https://thinhle1.sg.larksuite.com/app/JmQMbi5MsakZaisFNU6l248ugBd?pageId=pgeCryHXZxtoxnXi)
 
-📫 Contact me — [LinkedIn](https://www.linkedin.com/in/thinhlk41/) · [Email](mailto:kimthinh.41@gmail.com)
+📫 Contact me — [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
 
 </td>
 </tr>

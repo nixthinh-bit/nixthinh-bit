@@ -18,7 +18,7 @@ trong suốt hành trình đó.
 
 ✍️ Blog cá nhân — [Beyond Features](https://thinhle1.sg.larksuite.com/app/JmQMbi5MsakZaisFNU6l248ugBd?pageId=pgeCryHXZxtoxnXi)
 
-📫 Liên hệ — [LinkedIn](https://www.linkedin.com/in/thinhlk41/) · [Email](mailto:kimthinh.41@gmail.com)
+📫 Liên hệ — [LinkedIn](https://www.linkedin.com/in/thinhlk41/)
 
 </td>
 </tr>
