@@ -38,6 +38,7 @@ learned, liked, and done throughout this journey.
 - [zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video): single-file browser tool for CapCut-style Ken Burns zoom and highlighting the key parts while recording a demo video
 - [lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect): plain-language requirement → live Lark Base (interview → ERD → build → usage doc)
 - [gtm-industry-researcher](https://github.com/nixthinh-bit/gtm-industry-researcher): industry name → source-cited industry report → product mapping with ranked POC hypotheses and discovery questions
+- [first-meeting-prep](https://github.com/nixthinh-bit/first-meeting-prep): company name → source-cited, five-minute brief for a first sales meeting, with discovery questions and product fit written from your own product profile
 
 </td>
 <td width="40%" align="center">

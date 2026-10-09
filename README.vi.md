@@ -38,6 +38,7 @@ trong suốt hành trình đó.
 - [zoom-demo-video](https://github.com/nixthinh-bit/zoom-demo-video): công cụ một file HTML chạy trên trình duyệt, zoom Ken Burns kiểu CapCut và làm nổi bật các phần chính khi quay video demo
 - [lark-base-architect](https://github.com/nixthinh-bit/lark-base-architect): yêu cầu bằng lời thường → Lark Base chạy được (phỏng vấn → ERD → build → tài liệu dùng)
 - [gtm-industry-researcher](https://github.com/nixthinh-bit/gtm-industry-researcher): tên ngành → báo cáo ngành có trích nguồn → mapping sang sản phẩm với giả thuyết POC xếp hạng và câu hỏi discovery
+- [first-meeting-prep](https://github.com/nixthinh-bit/first-meeting-prep): tên công ty → brief có trích nguồn, đọc trong năm phút trước buổi họp đầu, kèm câu hỏi discovery và phần sản phẩm khớp viết từ profile sản phẩm của chính bạn
 
 </td>
 <td width="40%" align="center">
